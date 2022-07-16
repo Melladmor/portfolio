@@ -1,0 +1,42 @@
+nav{
+    background: rgba(0 , 0 , 0 ,0.3) ;
+    width: max-content;
+    display: block;
+    padding: 0.7rem 1.7rem;
+    z-index: 2;
+    position:fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 2rem;
+    border-radius: 4rem;
+    backdrop-filter: blur(15px);
+    display: flex;
+    gap: 0.5rem;
+}
+nav a{
+    background: transparent;
+    font-size: 20px;
+    padding: 12px 12px 5px 12px;
+    color: var(--color-light);
+    border-radius: 50%;
+}
+nav a:hover{
+    color: var(--color-primary);
+}
+.active{
+    background-color: var(--color-bg);
+    color: var(--color-light);
+}
+
+/* meduim */
+@media (max-width:1024px){
+    nav a{
+        padding: 10px 10px 3px 10px;
+    }
+}
+
+@media (max-width:600px){
+    nav a{
+        padding: 7px 7px 3px 7px;
+    }
+}
