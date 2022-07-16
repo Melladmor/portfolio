@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e893fbe7.css",
-    "main.js": "/portfolio/static/js/main.26cc3de4.js",
+    "main.js": "/portfolio/static/js/main.3a39e6f2.js",
     "static/media/Black Panther Wallpaper.jpg": "/portfolio/static/media/Black Panther Wallpaper.80658f21f10f63dda759.jpg",
     "static/media/Mellad Mershid.pdf": "/portfolio/static/media/Mellad Mershid.4c4befc432ac36f9ddf3.pdf",
     "static/media/CYMERA_٢٠٢٢٠٧٠٣_١٧٥٤٥٤-removebg.png": "/portfolio/static/media/CYMERA_٢٠٢٢٠٧٠٣_١٧٥٤٥٤-removebg.de518469696832fdc9b8.png",
     "index.html": "/portfolio/index.html",
     "main.e893fbe7.css.map": "/portfolio/static/css/main.e893fbe7.css.map",
-    "main.26cc3de4.js.map": "/portfolio/static/js/main.26cc3de4.js.map"
+    "main.3a39e6f2.js.map": "/portfolio/static/js/main.3a39e6f2.js.map"
   },
   "entrypoints": [
     "static/css/main.e893fbe7.css",
-    "static/js/main.26cc3de4.js"
+    "static/js/main.3a39e6f2.js"
   ]
 }
