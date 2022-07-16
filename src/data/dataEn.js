@@ -2,7 +2,7 @@ export const DATAEN = [
     {
         id:'1',
         name:"CRUD App",
-        img:"/assets/images/crud.png",
+        img:"../assets/crud.png",
         description:"CRUD app for employee management using react",
         repository:"https://github.com/Melladmor/crud",
         livedemo:"https://melladmor.github.io/crud/"
@@ -12,7 +12,7 @@ export const DATAEN = [
     {
         id:'2',
         name:"Employee Mangement",
-        img:"/assets/images/employe.png",
+        img:"../assets/employe.png",
         description:"Employee mangement app using react redux",
         repository:"https://github.com/Melladmor/employeemanagement",
         livedemo:"https://melladmor.github.io/employeemanagement/"
@@ -22,7 +22,7 @@ export const DATAEN = [
     {
         id:'3',
         name:"Quiz App",
-        img:"/assets/images/quiz.png",
+        img:"../assets/quiz.png",
         description:"Quiz app using react",
         repository:"https://github.com/Melladmor/Quizzical",
         livedemo:"https://melladmor.github.io/Quizzical/"
@@ -32,7 +32,7 @@ export const DATAEN = [
     {
         id:'4',
         name:"Shop Cart",
-        img:"/assets/images/shopcart.png",
+        img:"../assets/shopcart.png",
         description:"Shop cart using react redux",
         repository:"https://github.com/Melladmor/shopcart",
         livedemo:"https://melladmor.github.io/shopcart/"
@@ -42,7 +42,7 @@ export const DATAEN = [
     {
         id:'5',
         name:"To Do App",
-        img:"/assets/images/todoapp.png",
+        img:"../assets/todoapp.png",
         description:"To Do app using react",
         repository:"https://github.com/Melladmor/todoapp",
         livedemo:"https://melladmor.github.io/todoapp/"
@@ -52,7 +52,7 @@ export const DATAEN = [
     {
         id:'6',
         name:"Meme Generator ",
-        img:"/assets/images/memegen.png",
+        img:"../assets/memegen.png",
         description:"Simple meme generator using react",
         repository:"https://github.com/Melladmor/MemeGenerator",
         livedemo:"https://melladmor.github.io/MemeGenerator/"
@@ -62,7 +62,7 @@ export const DATAEN = [
     {
         id:'7',
         name:"Tenzic Game",
-        img:"/assets/images/tenzic.png",
+        img:"../assets/tenzic.png",
         description:"Tenzic game using react",
         repository:"https://github.com/Melladmor/Tenziesgame",
         livedemo:"https://melladmor.github.io/Tenziesgame/"
@@ -72,7 +72,7 @@ export const DATAEN = [
     {
         id:'8',
         name:"Code Editor",
-        img:"/assets/images/editor.png",
+        img:"../assets/editor.png",
         description:"Simple code editor for HTML, CSS, JavaScript",
         repository:"https://github.com/Melladmor/coder-mellad-editor",
         livedemo:"https://melladmor.github.io/coder-mellad-editor/"
@@ -82,7 +82,7 @@ export const DATAEN = [
     {
         id:'9',
         name:"Radio Online",
-        img:"/assets/images/radio.png",
+        img:"../assets/radio.png",
         description:"Online radio for syrian radios",
         repository:"https://github.com/Melladmor/radiox",
         livedemo:"https://melladmor.github.io/radiox/"
