@@ -12,8 +12,10 @@ footer a{
     font-size: 2rem;
     font-weight: 500;
     margin-bottom: 2rem;
-    display: block;
+    display: flex;
+    justify-content: center;
 }
+
 .links{
     display: flex;
     flex-wrap: wrap ;

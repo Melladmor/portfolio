@@ -7,7 +7,9 @@ const Fotter = () => {
   return (
     <section>
       <footer>
-        <a href='/' className='footer__logo'>Fotter Logo</a>
+        <div href='/' className='footer__logo'>
+        Mellad Morshed
+        </div>
 
         <ul className='links'>
           <li><a href='#header'>Home</a></li>

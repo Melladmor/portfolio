@@ -76,9 +76,9 @@ header{
         height: 70vh;
     }
     .header__container .me{
-        width: 10rem;
-        height: 15rem;
-        left: calc(50% - 5rem);
+        width: 15rem;
+        height: 20rem;
+        left: calc(50% - 7.5rem);
 
     }
 }

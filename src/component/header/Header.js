@@ -1,7 +1,7 @@
 import React from 'react'
 import Cta from './Cta';
 import './header.css'
-import ME from '../../assets/CYMERA_٢٠٢٢٠٧٠٣_١٧٥٤٥٤-removebg.png'
+import ME from '../../assets/PicsArt_07-17-08.48.41-removebg-preview.png'
 import HeaderSocial from './HeaderSocial';
 import {BsFillArrowDownCircleFill} from 'react-icons/bs'
 import {BsFillArrowUpCircleFill} from 'react-icons/bs'

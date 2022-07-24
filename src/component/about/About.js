@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/CYMERA_٢٠٢٢٠٧٠٣_١٧٥٤٥٤-removebg.png';
+import ME from '../../assets/IMG-20220717-WA0033-1-removebg-preview.png';
 import {FaAward} from 'react-icons/fa';
 import {VscFolderLibrary} from 'react-icons/vsc';
 
