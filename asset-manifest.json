@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e4ae9164.css",
+    "main.js": "/portfolio/static/js/main.21254176.js",
+    "static/media/Black Panther Wallpaper.jpg": "/portfolio/static/media/Black Panther Wallpaper.80658f21f10f63dda759.jpg",
+    "static/media/Mellad Mershid.pdf": "/portfolio/static/media/Mellad Mershid.3c1eb72cb8544f6d7ca0.pdf",
+    "static/media/memegen.png": "/portfolio/static/media/memegen.8c79067176874c4d8b2f.png",
+    "static/media/editor.png": "/portfolio/static/media/editor.ddfaeb64112a80a8db5b.png",
+    "static/media/image.jpg": "/portfolio/static/media/image.4150c349e24db63dfa81.jpg",
+    "static/media/crud.png": "/portfolio/static/media/crud.24db591cd68922999953.png",
+    "static/media/radio.png": "/portfolio/static/media/radio.235c32d50e5692e2302c.png",
+    "static/media/shopcart.png": "/portfolio/static/media/shopcart.6e36012ecdcb72e72464.png",
+    "static/media/todoapp.png": "/portfolio/static/media/todoapp.143821e99dafa0673124.png",
+    "static/media/employe.png": "/portfolio/static/media/employe.97e47f8ad1defc580211.png",
+    "static/media/logo.jpg": "/portfolio/static/media/logo.83a160a5c13180c72f1d.jpg",
+    "static/media/tenzic.png": "/portfolio/static/media/tenzic.5832a71420299def835c.png",
+    "index.html": "/portfolio/index.html",
+    "main.e4ae9164.css.map": "/portfolio/static/css/main.e4ae9164.css.map",
+    "main.21254176.js.map": "/portfolio/static/js/main.21254176.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ae9164.css",
+    "static/js/main.21254176.js"
+  ]
+}
